@@ -4,7 +4,7 @@ MindMend is an AI-powered mental wellness application that enables users to enga
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Frontend:** Next.js 14, TailwindCSS, shadcn/ui, MagicUI, Zustand, DaisyUI, Framer Motion
 - **Backend:** Node.js, Express.js, Firebase Admin SDK, MongoDB Atlas, Google Gemini API, ElevenLabs TTS
@@ -42,7 +42,7 @@ In India, especially among students and young professionals, mental health is of
 
 ---
 
-## ⚠️ Performance & Limitations
+## Performance & Limitations
 
 - The app may be **slow to respond initially** due to Render’s cold start behavior for free-tier deployments.
 - ElevenLabs API has a **limited token quota**, and when exhausted, the app automatically switches to browser-based speech synthesis.
